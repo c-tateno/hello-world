@@ -1,1 +1,3 @@
 aaaaa
+bbbbb　別ブランチに分割
+ccccc　c-tateno-patch-1で編集を実施
